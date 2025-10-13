@@ -22,7 +22,8 @@
     'data': [
         # 'security/ir.model.access.csv',
         # 'security/security.xml',
-        'views/pl_closed_view.xml',
+        'views/account_journal.xml',
+        'views/account_move.xml',
         
 	#'wizards/recap.xml',
     ],

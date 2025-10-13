@@ -1,2 +1,3 @@
 # -*- coding: utf-8 -*-
-from . import profit_and_loss_closed
+from . import account_journal
+from . import account_move
