@@ -22,8 +22,7 @@
     'data': [
         # 'security/ir.model.access.csv',
         # 'security/security.xml',
-        'views/users.xml',
-
+ 
         'views/account_journal.xml',
         'views/account_move.xml',
         
