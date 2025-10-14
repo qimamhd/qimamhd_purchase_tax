@@ -16,12 +16,14 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base','account'],
+    'depends': ['base','account','qimamhd_purchase_forms'],
 
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
         # 'security/security.xml',
+        'views/users.xml',
+
         'views/account_journal.xml',
         'views/account_move.xml',
         
